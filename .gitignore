@@ -1,0 +1,34 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output directories
+bin/
+build/
+dist/
+
+# Vendor directory (if you use vendoring)
+vendor/
+
+# Logs
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*~
+
+
+
+# Test data
+*.out
+*.cover
+
+# Environment-specific files
+.env
+.env.*
